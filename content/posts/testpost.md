@@ -1,7 +1,7 @@
 +++
 title = 'Testpost'
 date = 2023-09-12T12:57:11+02:00
-draft = true
+draft = false
 +++
 ## First test-post on my hugo website hosted on github pages
 
