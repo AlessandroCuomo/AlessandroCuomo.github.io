@@ -22,3 +22,7 @@ This is a numbered list:
 3. item 3
 
 this is a last minute mod
+
+<!-- add new remote -->
+
+new remote added
